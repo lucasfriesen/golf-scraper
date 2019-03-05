@@ -10,7 +10,9 @@ import golf-scraper as gs
 df = gs.results_collect(YEARS, PATH, TOURS)
 
 YEARS -> List of years as integers
+
 PATH -> The folder to save all files
+
 TOURS -> List of tours to collect for ['PGA TOUR','Web.com Tour','LPGA Tour','European Tour']
 
 EXAMPLE 1:
