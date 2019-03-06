@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 12 19:35:47 2018
-
-@author: lucas
-"""
-
 import os
 import pandas as pd
 from bs4 import BeautifulSoup
