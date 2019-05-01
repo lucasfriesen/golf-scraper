@@ -1,7 +1,9 @@
 # golf-scraper
 ## Web Scraper for Professional Golf Tournament Results
 
-### Install the golf-scraper script, and the master function as follows:
+### Dependencies: os, pandas, requests, bs4, time
+
+#### Install the golf-scraper script, and the master function as follows:
 
 ------------------------------------------------------------
 
